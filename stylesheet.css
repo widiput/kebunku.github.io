@@ -1,0 +1,11 @@
+.top-wrapper {
+  background-image: salad-vegetable-box_0.jpg;
+  background-size: cover;
+  color:white;
+  padding-top: 180px;
+  padding-bottom: 100px;
+}
+
+.container h1 {
+  color: #02ccba;
+}
